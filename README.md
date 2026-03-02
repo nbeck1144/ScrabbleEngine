@@ -1,0 +1,1 @@
+A simple scrabble game engine. Run with "python main.py." The player will always play first, and the bot will select its highest scoring play from the available ones. Dictionary used is the Scrabble CSW (used for international tournaments). 
